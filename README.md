@@ -5,6 +5,7 @@ Notebooks/Scripts are on Master Branch
 - Dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
 - Data Dictionary: https://docs.google.com/spreadsheets/d/155lud0vY1y6PByDqcHftAf1pcvQqW1iRtNrXs15gZPM/edit#gid=0
 - Cloud Service: Google Cloud
+- Python Libraries Needed: Pandas, Os, io, hashlib, google-cloud-storage, google-cloud-bigquery
 
 Steps:
 1. Create Storage Bucket and Upload Data To Bucket
