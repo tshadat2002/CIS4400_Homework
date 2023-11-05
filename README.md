@@ -7,9 +7,7 @@
 - Final Dashboard: https://lookerstudio.google.com/reporting/9c422398-2f81-4f67-b258-d5f089af095f 
 
 Steps:
-1. Create Storage Bucket and Upload Data To Bucket
-2. Create Script to Transform Data From Bucket
-3. Design The Data Model
-4. Create Data Warehouse (Bigquery Dataset)
-5. Load Data into BigQuery 
-6. Analytics
+1. Create Storage Bucket and Upload Data To Bucket (Storage Script)
+2. Create Script to Transform Data From Bucket (Transformation Script)
+3. Design The Data Model, Create Data Warehouse, Load Data into BigQuery (Data Warehouse Script)
+4. Analytics 
