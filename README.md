@@ -1,5 +1,6 @@
 # CIS4400_Homework
 
+- Requirements: https://docs.google.com/document/d/1iqcKT6U9HhWAsCh8QHQ5RgM53MRJtbLgO3pJZXLK8T0/edit?usp=sharing
 - Dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
 - Data Dictionary: https://docs.google.com/spreadsheets/d/155lud0vY1y6PByDqcHftAf1pcvQqW1iRtNrXs15gZPM/edit#gid=0
 - Cloud Service: Google Cloud (Storage, BigQuery, Looker Studio)
