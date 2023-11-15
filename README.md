@@ -3,6 +3,9 @@
 - Requirements: https://docs.google.com/document/d/1iqcKT6U9HhWAsCh8QHQ5RgM53MRJtbLgO3pJZXLK8T0/edit?usp=sharing
 - Dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
 - Data Dictionary: https://docs.google.com/spreadsheets/d/155lud0vY1y6PByDqcHftAf1pcvQqW1iRtNrXs15gZPM/edit#gid=0
+- Data Model
+![Data Model]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/tshadat2002/CIS4400_Homework/blob/main/data_model.jpg))
+
 - Cloud Service: Google Cloud (Storage, BigQuery, Looker Studio)
 - Python Libraries Needed: Pandas, Os, io, hashlib, google-cloud-storage, google-cloud-bigquery
 - Final Dashboard: https://lookerstudio.google.com/reporting/9c422398-2f81-4f67-b258-d5f089af095f 
