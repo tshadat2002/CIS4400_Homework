@@ -4,11 +4,11 @@
 - Dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
 - Data Dictionary: https://docs.google.com/spreadsheets/d/155lud0vY1y6PByDqcHftAf1pcvQqW1iRtNrXs15gZPM/edit#gid=0
 - Data Model
-![Data Model]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/tshadat2002/CIS4400_Homework/blob/main/data_model.jpg?raw=true))
-
+![data_model](https://github.com/tshadat2002/CIS4400_Homework/assets/71566775/9b4ac481-530f-4f7e-aac7-4cca2dc583b7)
 - Cloud Service: Google Cloud (Storage, BigQuery, Looker Studio)
 - Python Libraries Needed: Pandas, Os, io, hashlib, google-cloud-storage, google-cloud-bigquery
 - Final Dashboard: https://lookerstudio.google.com/reporting/9c422398-2f81-4f67-b258-d5f089af095f 
+
 
 Steps:
 1. Create Storage Bucket and Upload Data To Bucket (Storage Script)
